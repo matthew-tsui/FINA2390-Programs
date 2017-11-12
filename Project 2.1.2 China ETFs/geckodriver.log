@@ -2836,3 +2836,327 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1509694283623	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
 1509694289047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1509694309794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796636219	geckodriver	INFO	Listening on 127.0.0.1:61666
+1509796637368	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509796637679	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509796638117	Marionette	INFO	Enabled via --marionette
+2017-11-04 19:57:19.818 plugin-container[3141:150061] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 19:57:19.821 plugin-container[3141:150061] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509796640035	Marionette	INFO	Listening on port 61687
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509796640141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509796640173	Marionette	DEBUG	loaded listener.js
+1509796640191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509796640784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509796640784	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509796645533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796646276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796646283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796646386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796646554	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796646557	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796646563	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796647237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796647239	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796647308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796652789	geckodriver	INFO	Listening on 127.0.0.1:61946
+1509796653847	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509796654112	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509796654420	Marionette	INFO	Enabled via --marionette
+2017-11-04 19:57:35.772 plugin-container[3146:151191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 19:57:35.773 plugin-container[3146:151191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509796655979	Marionette	INFO	Listening on port 61968
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509796656040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509796656077	Marionette	DEBUG	loaded listener.js
+1509796656097	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509796656531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509796656532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509796658879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796659591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796659608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796659613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796659655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796659662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796659682	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796659684	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796659842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509796659889	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796659892	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796659893	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796659894	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796661542	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509796666884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796685833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796710337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796829287	geckodriver	INFO	Listening on 127.0.0.1:55199
+1509796830389	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509796830644	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509796830970	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:00:32.382 plugin-container[3158:153900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:00:32.385 plugin-container[3158:153900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509796832580	Marionette	INFO	Listening on port 55256
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509796832621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509796832661	Marionette	DEBUG	loaded listener.js
+1509796832677	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509796833083	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509796833084	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509796834994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796835466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796835548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796835572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796835583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796835586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796835592	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796835594	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796835596	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796835597	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796835604	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796835606	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796888346	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509796928513	geckodriver	INFO	Listening on 127.0.0.1:58125
+1509796929621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509796929900	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509796930239	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:02:11.764 plugin-container[3165:156388] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:02:11.767 plugin-container[3165:156388] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509796932014	Marionette	INFO	Listening on port 58168
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509796932062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509796932108	Marionette	DEBUG	loaded listener.js
+1509796932126	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509796932292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509796932292	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509796934701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796935146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796935174	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509796935182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796935187	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509796935378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796935419	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509796935448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796935452	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509796935461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796935463	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509796935464	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509796936046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509796936830	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509796942190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796959572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796980613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796990291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509796999122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797008312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797303109	geckodriver	INFO	Listening on 127.0.0.1:53540
+1509797304232	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797304496	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797304798	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:08:26.393 plugin-container[3207:164262] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:08:26.398 plugin-container[3207:164262] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797306594	Marionette	INFO	Listening on port 53553
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509797306676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509797306710	Marionette	DEBUG	loaded listener.js
+1509797306725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797307047	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797307048	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797309286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797309952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797309992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797310000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797310007	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797310016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797310021	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797310025	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797310026	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797310031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797310032	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797310033	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797310469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797311066	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797316412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797332310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797351622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797375864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797407878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797443362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797552960	geckodriver	INFO	Listening on 127.0.0.1:59960
+1509797554073	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797554344	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797554655	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:12:35.997 plugin-container[3220:168945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa32f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:12:36.000 plugin-container[3220:168945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797556641	Marionette	INFO	Listening on port 59974
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509797556677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509797556713	Marionette	DEBUG	loaded listener.js
+1509797556739	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797557026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797557026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797558778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797559211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797559213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797559217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797559222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797559226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797559233	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797559239	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797559241	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797559244	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797559245	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797559245	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797559833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797560477	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797565817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797597364	geckodriver	INFO	Listening on 127.0.0.1:60221
+1509797598484	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797598742	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797599063	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:13:20.391 plugin-container[3224:169936] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:13:20.393 plugin-container[3224:169936] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa607, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797600580	Marionette	INFO	Listening on port 60230
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509797600674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509797600706	Marionette	DEBUG	loaded listener.js
+1509797600720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797600870	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797600870	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797602744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797603167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797603197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797603200	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797603207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797603210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797603211	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797603219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797603221	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797603222	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797603228	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797603232	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797603384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797604006	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797609370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797650093	geckodriver	INFO	Listening on 127.0.0.1:60483
+1509797651203	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797651457	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797651786	Marionette	INFO	Enabled via --marionette
+1509797653503	Marionette	INFO	Listening on port 60496
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-11-04 20:14:13.589 plugin-container[3228:171154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:14:13.592 plugin-container[3228:171154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797653624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509797653838	Marionette	DEBUG	loaded listener.js
+1509797654005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797654296	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797654297	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797656240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797656691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797656767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797656790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797656792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797656796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797656800	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797656884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797656923	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797656925	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797656948	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797656950	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797656952	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797657524	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797660841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797664143	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797664405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797664674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797664941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797665186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797685302	geckodriver	INFO	Listening on 127.0.0.1:60716
+1509797686440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797686696	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797686997	Marionette	INFO	Enabled via --marionette
+1509797688522	Marionette	INFO	Listening on port 60725
+2017-11-04 20:14:48.549 plugin-container[3232:172494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:14:48.550 plugin-container[3232:172494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797688556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509797688697	Marionette	DEBUG	loaded listener.js
+1509797688713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797688852	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797688853	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797690449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797691025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797691057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797691064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797691066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797691069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797691074	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797691082	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797691083	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797691088	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797691089	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797691089	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797691647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797692258	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797695608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797698909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797700153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797701458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797702777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797704081	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797705339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797706581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797707843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797709109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797726327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797729910	geckodriver	INFO	Listening on 127.0.0.1:62083
+1509797731025	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509797731268	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509797731568	Marionette	INFO	Enabled via --marionette
+2017-11-04 20:15:32.758 plugin-container[3236:173567] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa53b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-04 20:15:32.764 plugin-container[3236:173567] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509797732919	Marionette	INFO	Listening on port 62093
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1509797733000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509797733032	Marionette	DEBUG	loaded listener.js
+1509797733048	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509797733377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509797733377	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509797735088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797735442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797735481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797735496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797735499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797735506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797735511	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=245&op=1"
+1509797735513	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=244&op=1"
+1509797735515	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=243&op=1"
+1509797735518	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=246&op=1"
+1509797735525	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=247&op=1"
+1509797735526	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.jrj.com.cn/s?z=jrj&c=248&op=4"
+1509797735777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797736475	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.jrj.com.cn/funddata/smjj/"
+1509797739811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797743109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797743883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797744677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509797745466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
