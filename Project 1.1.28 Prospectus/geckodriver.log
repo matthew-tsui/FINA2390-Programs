@@ -1081,3 +1081,518 @@ JavaScript warning: http://www.hkex.com.hk/lhkexw/js/quoteequities.js, line 1480
 JavaScript warning: http://www.hkex.com.hk/lhkexw/js/quoteequities.js, line 1480: unreachable code after return statement
 1510046717548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=8470&sc_lang=en"
 1510046717630	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=8470&sc_lang=en"
+1510641050983	geckodriver	INFO	Listening on 127.0.0.1:51769
+1510641052106	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510641052502	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510641052885	Marionette	INFO	Enabled via --marionette
+2017-11-14 14:30:54.198 plugin-container[4191:35170] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 14:30:54.201 plugin-container[4191:35170] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510641054560	Marionette	INFO	Listening on port 51782
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510641054645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510641054679	Marionette	DEBUG	loaded listener.js
+1510641054719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510641056474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510641056474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641056973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+JavaScript error: http://hkf10.eastmoney.com/js/build/Common/comm.js?v=0.0.1 line 1 > eval, line 25: ReferenceError: qphf is not defined
+1510641062295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641062512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641062512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641062513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641062700	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641062740	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641065683	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641065685	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641065703	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641153114	geckodriver	INFO	Listening on 127.0.0.1:52265
+1510641154224	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510641154474	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510641154828	Marionette	INFO	Enabled via --marionette
+2017-11-14 14:32:36.006 plugin-container[4216:36760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 14:32:36.010 plugin-container[4216:36760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510641156703	Marionette	INFO	Listening on port 52278
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510641156791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510641156824	Marionette	DEBUG	loaded listener.js
+1510641156859	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510641157756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510641157756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641159747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641162410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641162778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641162780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641162820	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641162974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641163495	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641163497	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641163498	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641163617	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641178610	geckodriver	INFO	Listening on 127.0.0.1:52459
+1510641179749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510641180066	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510641180454	Marionette	INFO	Enabled via --marionette
+2017-11-14 14:33:01.830 plugin-container[4227:37361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 14:33:01.831 plugin-container[4227:37361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510641181996	Marionette	INFO	Listening on port 52472
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510641182054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510641182094	Marionette	DEBUG	loaded listener.js
+1510641182113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510641187393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510641187393	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641188842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641191383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641191482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641191497	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641191701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641191715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641191773	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641191827	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641191836	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641193509	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641226432	geckodriver	INFO	Listening on 127.0.0.1:52751
+1510641227558	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510641227834	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510641228153	Marionette	INFO	Enabled via --marionette
+1510641229605	Marionette	INFO	Listening on port 52761
+1510641229627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510641229673	Marionette	DEBUG	loaded listener.js
+1510641229713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-11-14 14:33:49.763 plugin-container[4245:38248] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 14:33:49.767 plugin-container[4245:38248] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510641230005	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510641230005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641231359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641234204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641234261	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641234782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641234967	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641237516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641237839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641237891	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641237968	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641238007	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641239808	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641239956	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641239956	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641240041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510641240041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510641240041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510641240042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641240094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641240425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641240434	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641241182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641241192	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641241426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641241432	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641241433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641241439	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641241454	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641243147	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641243590	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641243591	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641243641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1510641243641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1510641243642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1510641243642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641243694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641244181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641244191	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641244425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641244429	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641244430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641244433	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641244434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641244532	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641246426	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641248206	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641248353	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641248353	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641248410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510641248410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1510641248410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1510641248410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641248748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=572&name=ipoInfo"
+1510641249287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641249292	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641249968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641249970	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641249981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641249982	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641249982	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641250164	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641250914	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=572&name=ipoInfo"
+1510641252598	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=572&name=ipoInfo"
+1510641252739	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=572&name=ipoInfo"
+1510641252739	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=572&name=ipoInfo"
+1510641252782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1510641252782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1510641252783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1510641252783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641252896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=573&name=ipoInfo"
+1510641253535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641253543	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641254850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641254853	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641254864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641254867	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641254874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641254875	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641256194	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=573&name=ipoInfo"
+1510641275029	geckodriver	INFO	Listening on 127.0.0.1:53101
+1510641276120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510641276400	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510641276763	Marionette	INFO	Enabled via --marionette
+2017-11-14 14:34:37.961 plugin-container[4264:39384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 14:34:37.962 plugin-container[4264:39384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510641278379	Marionette	INFO	Listening on port 53110
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510641278411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510641278443	Marionette	DEBUG	loaded listener.js
+1510641278463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510641279812	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510641279812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641281396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641287694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641287782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641287828	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641287829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641287855	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641287965	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641290814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641290905	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641298394	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641303600	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641303737	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641303739	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510641303796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510641303796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510641303796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510641303796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641303957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641304386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641304389	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641305100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641305105	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641305105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641305110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641305112	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641305178	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641305509	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641310727	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641311059	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641311059	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510641311103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510641311103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1510641311127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1510641311127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510641311583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+1510641312438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641312441	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510641313517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641313526	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510641313790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641313905	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510641314855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641314861	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510641314892	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=569&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2017-11-14 14:39:55.527 firefox-bin[4226:42986] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/tmp.b0IHrNTu/: The file “tmp.b0IHrNTu” couldn’t be opened because you don’t have permission to view it.
+2017-11-14 14:39:55.527 firefox-bin[4263:44070] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/tmp.b0IHrNTu/: The file “tmp.b0IHrNTu” couldn’t be opened because you don’t have permission to view it.
+2017-11-14 14:39:55.527 firefox-bin[4243:43753] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/tmp.b0IHrNTu/: The file “tmp.b0IHrNTu” couldn’t be opened because you don’t have permission to view it.
+1510649241706	geckodriver	INFO	Listening on 127.0.0.1:59745
+1510649242838	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510649243176	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510649243525	Marionette	INFO	Enabled via --marionette
+2017-11-14 16:47:24.971 plugin-container[5689:139091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 16:47:24.975 plugin-container[5689:139091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510649245344	Marionette	INFO	Listening on port 59755
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510649245426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510649245459	Marionette	DEBUG	loaded listener.js
+1510649245493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510649246188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510649246188	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510649246307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+JavaScript error: http://hkf10.eastmoney.com/js/build/Common/comm.js?v=0.0.1 line 1 > eval, line 25: ReferenceError: qphf is not defined
+1510649248322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510649248335	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510649248512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510649248514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510649248921	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510649249168	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510649254437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510649254450	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510649254476	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510649259634	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510649259649	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510649259649	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=565&name=ipoInfo"
+1510649259699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510649259700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510649259700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510649259700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510649259721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+1510649259980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510649259985	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510649260381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510649260387	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510649260391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510649260392	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510649260650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510649260653	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510649260893	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=568&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651211467	geckodriver	INFO	Listening on 127.0.0.1:61847
+1510651212596	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510651212908	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510651213287	Marionette	INFO	Enabled via --marionette
+2017-11-14 17:20:14.619 plugin-container[6336:180399] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 17:20:14.623 plugin-container[6336:180399] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa607, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510651214883	Marionette	INFO	Listening on port 61856
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510651214971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510651215009	Marionette	DEBUG	loaded listener.js
+1510651215030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510651215062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510651215062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651215275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651218146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651218154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651218162	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651218162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651218163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651218212	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651218217	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651218227	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651218246	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651223293	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651223313	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651223314	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651223365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510651223365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510651223367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510651223368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651223373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651223588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651223594	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651223760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651223762	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651223763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651223781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651223805	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651223826	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651223831	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651228857	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651228879	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651228880	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651228947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510651228948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510651228948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1510651228949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651229011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651229348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651229363	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651229453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651229483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651229483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651229486	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651229493	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651229496	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651229503	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651245101	geckodriver	INFO	Listening on 127.0.0.1:61974
+1510651246213	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510651246470	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510651246765	Marionette	INFO	Enabled via --marionette
+1510651248513	Marionette	INFO	Listening on port 61986
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-11-14 17:20:48.601 plugin-container[6352:181767] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 17:20:48.602 plugin-container[6352:181767] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510651248621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510651248759	Marionette	DEBUG	loaded listener.js
+1510651248781	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510651248891	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510651248891	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651250142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651251188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651251188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651251189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651251330	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651251333	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651251335	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651251375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651251377	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651251537	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651256822	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651256847	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651256848	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651256909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510651256909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510651256911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510651256911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651256927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651257171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651257173	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651257339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651257346	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651257361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651257362	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651257378	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651257389	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651257396	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651262471	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651262499	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651262500	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651262576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510651262577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510651262579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1510651262579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1510651262579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651262832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651262839	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651262855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651262857	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651262858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651262861	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651262861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651262863	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651262870	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651289849	geckodriver	INFO	Listening on 127.0.0.1:62114
+1510651290942	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510651291282	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510651292011	Marionette	INFO	Enabled via --marionette
+2017-11-14 17:21:33.794 plugin-container[6367:182965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-14 17:21:33.797 plugin-container[6367:182965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510651294052	Marionette	INFO	Listening on port 62126
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1510651294082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510651294135	Marionette	DEBUG	loaded listener.js
+1510651294177	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510651294216	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510651294216	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651295451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651296766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651296770	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651296775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651296776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651296776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651296801	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651296909	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651296913	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651297087	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651302179	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651302204	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+1510651302205	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00565&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651302285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510651302285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510651302286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510651302286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510651302287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651302573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651302585	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651302672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651302691	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651302700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651302700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651302715	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651302733	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651302739	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651307821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651307845	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+1510651307845	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00568&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651307899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510651307925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510651307926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1510651307927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1510651307931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651308229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651308251	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651308293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651308297	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651308297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651308301	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651308301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651308313	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651308319	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651313402	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651313419	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651313419	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00569&name=ipoInfo"
+1510651313458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1510651313458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1510651313458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510651313458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651313480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00572&name=ipoInfo"
+1510651313677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651313686	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651313750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651313752	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651313777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651313779	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651313780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651313782	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651313786	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00572&name=ipoInfo"
+1510651318872	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00572&name=ipoInfo"
+1510651318891	Marionette	DEBUG	Received DOM event "pagehide" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00572&name=ipoInfo"
+1510651318891	Marionette	DEBUG	Received DOM event "unload" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00572&name=ipoInfo"
+JavaScript warning: http://hkf10.eastmoney.com/js/seajs2.0/sea.js, line 15: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510651318972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1510651318972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1510651318973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1510651318973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1510651318979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00573&name=ipoInfo"
+1510651319258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651319270	Marionette	DEBUG	Received DOM event "pageshow" for "http://emres.dfcfw.com/public/footer-1000-iframe.html"
+1510651319292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651319294	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=23&op=1"
+1510651319294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651319299	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=174&op=1"
+1510651319307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651319310	Marionette	DEBUG	Received DOM event "pageshow" for "http://same.eastmoney.com/s?z=eastmoney&c=22&op=1"
+1510651319318	Marionette	DEBUG	Received DOM event "pageshow" for "http://hkf10.eastmoney.com/html_HKStock/index.html?securitycode=00573&name=ipoInfo"
