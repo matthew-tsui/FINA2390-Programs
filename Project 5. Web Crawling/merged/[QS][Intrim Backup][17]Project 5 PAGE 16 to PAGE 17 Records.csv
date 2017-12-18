@@ -1,0 +1,51 @@
+Ranking,University Name,Country,Source,No. of Students,Public/Private University,Focus
+=373,Aston University,United Kingdom,,"<12,000",Public,Comprehensive
+=373,Universitat Politècnica de València,Spain,,"<30,000",Public,Comprehensive
+378,Laval University,Canada,,"<30,000",Public,Comprehensive+
+379,Aalborg University,Denmark,,"<30,000",Public,Comprehensive+
+380,Tampere University of Technology,Finland,,"<12,000",Public,Comprehensive
+381,Université de Montpellier,France,,">30,000",Public,Comprehensive
+=382,National Research University Higher School of Economics (HSE University),Russia,,"<30,000",Public,Focused
+=382,"Stony Brook University, State University of New York",United States,,"<30,000",Public,Comprehensive+
+384,University of Southern Denmark,Denmark,,"<30,000",Public,Focused
+385,Universität Konstanz,Germany,,"<12,000",Public,Comprehensive
+=386,University of Kansas,United States,,"<30,000",Public,Comprehensive+
+=386,National Research Tomsk Polytechnic University,Russia,,"<12,000",Public,Focused
+=388,Universität Mannheim,Germany,,"<12,000",Public,Focused
+=388,National Sun Yat-sen University,Taiwan,,"<12,000",Public,Comprehensive
+390,United Arab Emirates University,United Arab Emirates,,"<12,000",Public,Comprehensive+
+=391,Dublin City University,Ireland,,"<30,000",Public,Comprehensive
+=391,National Central University,Taiwan,,"<12,000",Public,Comprehensive
+=391,University of Utah,United States,,"<30,000",Public,Comprehensive+
+394,"University of Colorado, Denver",United States,,,Private,
+=395,Illinois Institute of Technology,United States,,"<12,000",Private,Comprehensive
+=395,The American University in Cairo,Egypt,,,,
+397,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,,"<30,000",Private,Comprehensive
+=398,Johannes Gutenberg Universität Mainz,Germany,,">30,000",Public,Comprehensive+
+=398,Taipei Medical University,Taiwan,,"<12,000",Private,Focused
+=398,"Goldsmiths, University of London",United Kingdom,,"<12,000",Public,Focused
+401-410,Leibniz Universität Hannover,Germany,,,,
+401-410,National Technical University of Athens,Greece,,"<30,000",Public,Focused
+401-410,Peter the Great Saint-Petersburg Polytechnic University,Russia,,"<30,000",Public,Focused
+401-410,Ruhr-Universität Bochum,Germany,,">30,000",Public,Comprehensive+
+401-410,Universidad Externado de Colombia,Colombia,,"<12,000",Private,Comprehensive
+401-410,Gadjah Mada University,Indonesia,,,,
+401-410,University of Coimbra,Portugal,,"<30,000",Public,Comprehensive+
+401-410,V. N. Karazin Kharkiv National University,Ukraine,,,,
+401-410,Vilnius University,Lithuania,,"<30,000",Public,Comprehensive+
+401-410,Washington State University,United States,,"<30,000",Public,Comprehensive+
+411-420,American University of Sharjah,United Arab Emirates,,,,
+411-420,Arabian Gulf University,Bahrain,,,,
+411-420,Brandeis University,United States,,"<12,000",Private,Comprehensive
+411-420,Kazakh National Research Technical University after K.I.Satpayev,Kazakhstan,,"<12,000",,
+411-420,Taras Shevchenko National University of Kyiv,Ukraine,,"<30,000",Public,Comprehensive
+411-420,Universidad de Costa Rica,Costa Rica,,,,
+411-420,Aix-Marseille University,France,,">30,000",Public,Comprehensive+
+411-420,University of Oulu,Finland,,,,
+411-420,University of Warsaw,Poland,,">30,000",Public,Comprehensive
+411-420,Wake Forest University,United States,,,,
+421-430,Bilkent University,Turkey,,"<12,000",Private,Comprehensive
+421-430,Hitotsubashi University,Japan,,,,
+421-430,Shanghai University,China,,">30,000",Public,Comprehensive
+421-430,Swinburne University of Technology,Australia,,"<30,000",Public,Comprehensive
+421-430,The University of Georgia,United States,,">30,000",Public,Comprehensive+
