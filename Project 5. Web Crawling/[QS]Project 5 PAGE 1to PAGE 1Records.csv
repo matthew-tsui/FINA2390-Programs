@@ -1,26 +1,26 @@
 Ranking,University Name,Country,Source,No. of Students,Public/Private University,Focus
-1,Massachusetts Institute of Technology (MIT),United States,QS,"<12,000",Private,
-2,Stanford University,United States,QS,,,
-3,Harvard University,United States,QS,,,
-4,California Institute of Technology (Caltech),United States,QS,,,
-5,University of Cambridge,United Kingdom,QS,,,
-6,University of Oxford,United Kingdom,QS,,,
-7,UCL (University College London),United Kingdom,QS,,,
-8,Imperial College London,United Kingdom,QS,,,
-9,University of Chicago,United States,QS,,,
-10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,QS,,,
-11,"Nanyang Technological University, Singapore (NTU)",Singapore,QS,,,
-12,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,QS,,,
-13,Princeton University,United States,QS,,,
-14,Cornell University,United States,QS,,,
-15,National University of Singapore (NUS),Singapore,QS,,,
-16,Yale University,United States,QS,,,
-17,Johns Hopkins University,United States,QS,,,
-18,Columbia University,United States,QS,,,
-19,University of Pennsylvania,United States,QS,,,
-20,The Australian National University,Australia,QS,,,
-=21,University of Michigan,United States,QS,,,
-=21,Duke University,United States,QS,,,
-=23,The University of Edinburgh,United Kingdom,QS,,,
-=23,King's College London,United Kingdom,QS,,,
-25,Tsinghua University,China,QS,,,
+1,Massachusetts Institute of Technology (MIT),United States,QS,"<12,000",Private,Comprehensive
+2,Stanford University,United States,QS,"<30,000",Private,Comprehensive+
+3,Harvard University,United States,QS,"<30,000",Private,Comprehensive+
+4,California Institute of Technology (Caltech),United States,QS,"<5,000",Private,Comprehensive
+5,University of Cambridge,United Kingdom,QS,"<30,000",Public,Comprehensive+
+6,University of Oxford,United Kingdom,QS,"<30,000",Public,Comprehensive+
+7,UCL (University College London),United Kingdom,QS,">30,000",Public,Comprehensive+
+8,Imperial College London,United Kingdom,QS,"<30,000",Public,Comprehensive+
+9,University of Chicago,United States,QS,"<30,000",Private,Comprehensive+
+10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,QS,"<30,000",Public,Comprehensive
+11,"Nanyang Technological University, Singapore (NTU)",Singapore,QS,"<30,000",Public,Comprehensive+
+12,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,QS,"<12,000",Public,Focused
+13,Princeton University,United States,QS,"<12,000",Private,Comprehensive
+14,Cornell University,United States,QS,"<30,000",Private,Comprehensive+
+15,National University of Singapore (NUS),Singapore,QS,">30,000",Public,Comprehensive+
+16,Yale University,United States,QS,"<30,000",Private,Comprehensive+
+17,Johns Hopkins University,United States,QS,"<30,000",Private,Comprehensive+
+18,Columbia University,United States,QS,"<30,000",Private,Comprehensive+
+19,University of Pennsylvania,United States,QS,"<30,000",Private,Comprehensive+
+20,The Australian National University,Australia,QS,"<30,000",Public,Comprehensive+
+=21,University of Michigan,United States,QS,">30,000",Public,Comprehensive+
+=21,Duke University,United States,QS,"<30,000",Private,Comprehensive+
+=23,The University of Edinburgh,United Kingdom,QS,"<30,000",Public,Comprehensive+
+=23,King's College London,United Kingdom,QS,"<30,000",Public,Comprehensive+
+25,Tsinghua University,China,QS,">30,000",Public,Comprehensive+
